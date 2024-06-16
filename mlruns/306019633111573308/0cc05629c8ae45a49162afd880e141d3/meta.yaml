@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/goat%20mytra/mlruns/306019633111573308/0cc05629c8ae45a49162afd880e141d3/artifacts
+end_time: 1718475573213
+entry_point_name: ''
+experiment_id: '306019633111573308'
+lifecycle_stage: active
+run_id: 0cc05629c8ae45a49162afd880e141d3
+run_name: Ridge
+run_uuid: 0cc05629c8ae45a49162afd880e141d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718475568597
+status: 3
+tags: []
+user_id: maste

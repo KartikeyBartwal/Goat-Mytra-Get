@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/goat%20mytra/mlruns/306019633111573308/65f4a4c215d84caea63ac771e5508e2a/artifacts
+end_time: 1718475591315
+entry_point_name: ''
+experiment_id: '306019633111573308'
+lifecycle_stage: active
+run_id: 65f4a4c215d84caea63ac771e5508e2a
+run_name: Random Forest Regressor
+run_uuid: 65f4a4c215d84caea63ac771e5508e2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718475585235
+status: 3
+tags: []
+user_id: maste

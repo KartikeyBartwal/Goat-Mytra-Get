@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/goat%20mytra/mlruns/306019633111573308/f0150a3c921649449679e25b369cdd26/artifacts
+end_time: 1718475578800
+entry_point_name: ''
+experiment_id: '306019633111573308'
+lifecycle_stage: active
+run_id: f0150a3c921649449679e25b369cdd26
+run_name: K-Neighbors Regressor
+run_uuid: f0150a3c921649449679e25b369cdd26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718475573229
+status: 3
+tags: []
+user_id: maste

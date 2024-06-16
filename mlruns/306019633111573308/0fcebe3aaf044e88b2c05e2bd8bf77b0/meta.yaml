@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/goat%20mytra/mlruns/306019633111573308/0fcebe3aaf044e88b2c05e2bd8bf77b0/artifacts
+end_time: 1718475603601
+entry_point_name: ''
+experiment_id: '306019633111573308'
+lifecycle_stage: active
+run_id: 0fcebe3aaf044e88b2c05e2bd8bf77b0
+run_name: AdaBoost Regressor
+run_uuid: 0fcebe3aaf044e88b2c05e2bd8bf77b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718475597215
+status: 3
+tags: []
+user_id: maste

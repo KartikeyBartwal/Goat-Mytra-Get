@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/goat%20mytra/mlruns/306019633111573308/42c8e634efe04ee88e03fac988b39dec/artifacts
+end_time: 1718487514904
+entry_point_name: ''
+experiment_id: '306019633111573308'
+lifecycle_stage: active
+run_id: 42c8e634efe04ee88e03fac988b39dec
+run_name: Linear Regression
+run_uuid: 42c8e634efe04ee88e03fac988b39dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718487500868
+status: 3
+tags: []
+user_id: maste

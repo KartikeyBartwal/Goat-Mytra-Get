@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/goat%20mytra/mlruns/306019633111573308/5d555bee40e14d7d942f474785ae13a7/artifacts
+end_time: 1718487520917
+entry_point_name: ''
+experiment_id: '306019633111573308'
+lifecycle_stage: active
+run_id: 5d555bee40e14d7d942f474785ae13a7
+run_name: Lasso
+run_uuid: 5d555bee40e14d7d942f474785ae13a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718487514920
+status: 3
+tags: []
+user_id: maste

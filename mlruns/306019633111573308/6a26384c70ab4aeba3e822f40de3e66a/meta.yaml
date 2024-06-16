@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/goat%20mytra/mlruns/306019633111573308/6a26384c70ab4aeba3e822f40de3e66a/artifacts
+end_time: 1718476510947
+entry_point_name: ''
+experiment_id: '306019633111573308'
+lifecycle_stage: active
+run_id: 6a26384c70ab4aeba3e822f40de3e66a
+run_name: Decision Tree
+run_uuid: 6a26384c70ab4aeba3e822f40de3e66a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718476508747
+status: 3
+tags: []
+user_id: maste

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/goat%20mytra/mlruns/306019633111573308/984caf7f2ebd4a90ab796c4d721ed66a/artifacts
+end_time: 1718475597201
+entry_point_name: ''
+experiment_id: '306019633111573308'
+lifecycle_stage: active
+run_id: 984caf7f2ebd4a90ab796c4d721ed66a
+run_name: XGBRegressor
+run_uuid: 984caf7f2ebd4a90ab796c4d721ed66a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718475591334
+status: 3
+tags: []
+user_id: maste
